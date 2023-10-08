@@ -33,3 +33,11 @@ python3 GoogleImagesDownload.py -i="index.html" -o="datasets/images"
 Arguments:<br>
 `-i` or `--input`: the html file<br>
 `-o` or `--output`: the output folder where images will be saved
+## ME
+Github page: https://github.com/eduardoseity<br>
+LinkedIn page: www.linkedin.com/in/eduardo-seity-iseri-15908224y<br>
+<br><br>
+![Static Badge](https://img.shields.io/badge/Python-8A2BE2)
+![Static Badge](https://img.shields.io/badge/WebScraping-FFFF4F)
+![Static Badge](https://img.shields.io/badge/BeautifulSoup-42FF43)
+<br>
